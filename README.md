@@ -10,3 +10,9 @@ Welcome to this repository. This space highlights my practical work in social as
 
 ---
 *Empowering human lives through empathy, communication, and future-ready digital integration.*
+
+## 💡 Future Project: AI Access and Dignity for Vulnerable Communities
+
+A core question driving my upcoming work is: *Is access to Artificial Intelligence impossible for those living below the poverty line, or can it become a practical tool to improve their quality of life?*
+
+This project aims to bridge the digital and cognitive gap, exploring ways to introduce basic AI literacy and practical tech tools to marginalized individuals. By demonstrating how modern AI can assist in daily problem-solving, skill-building, and job market preparation, we can transform technology from an exclusive privilege into an inclusive catalyst for human dignity and upward mobility.
