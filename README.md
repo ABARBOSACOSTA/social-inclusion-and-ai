@@ -1,4 +1,4 @@
-# Social Inclusion, Human Development & AI Integration
+# digital-inclusion-and-ai
 
 Welcome to this repository. This space highlights my practical work in social assistance, engaging with street populations and vulnerable individuals, guiding them toward formal education, social reintegration, and digital literacy.
 
